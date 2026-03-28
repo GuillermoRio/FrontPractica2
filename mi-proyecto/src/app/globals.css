@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  gap: 10px;
+}
+
+.cardContent {
+  width: 30%;
+}
+
+.cardButton {
+  width: 100%;        
+  height: 250px;
+}
+.cardButton img {
+  width: 100%;
+  height: 100%;
+}
